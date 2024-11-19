@@ -22,6 +22,8 @@ struct Rect {
 
     const rect1 = new Rect(10, 20)
     console.log(rect1.area())
+    console.log(rect1.perimeter())
+    console.log(Rect.debug()) // this will return 1
  */
 
  // this is how we attach a function to a struct 
