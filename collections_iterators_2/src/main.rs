@@ -15,7 +15,8 @@ fn main() {
     let v1_iter = v1.iter();
 
     let total: i32 = v1_iter.sum();
-    asswert_eq!(total, 15);
+    assert_eq!(total, 15, "The total sum is incorrect!");
+    println!("Assertion passed: total is {}", total);
 
     // let sum2: i32 = v1.iter().sum(); -> v1_iter cannot be used after this line because it has been moved into the sum method
 }
