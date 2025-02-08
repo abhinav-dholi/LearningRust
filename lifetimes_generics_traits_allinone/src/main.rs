@@ -48,5 +48,6 @@ fn main() {
     let str1 = String::from("abhinav");
     let str2 = String::from("dholi");
     let _result = longest_with_an_announcement(&str1, &str2, "This is the longest string!");
+    println!("Longest string: {}", _result);
 }
 
