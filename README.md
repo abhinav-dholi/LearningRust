@@ -111,9 +111,9 @@
 **(Done)**
 - **Code:** [lifetimes](./lifetimes)  
 - **Code:** [lifetimes_2](./lifetimes_2)  
-- **Code:** [lifetimes_generics_traits_allinone](./lifetimes_generics_traits_allinone)  
 - **Code:** [lifetimes_with_struct](./lifetimes_with_struct)  
 - **Code:** [lifetimes_with_struct_2](./lifetimes_with_struct_2)  
+- **Code:** [lifetimes_generics_traits_allinone](./lifetimes_generics_traits_allinone)  
 - **Docs:** [Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
 
 ### 22. **Multithreading** 
