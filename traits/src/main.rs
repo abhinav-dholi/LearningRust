@@ -1,4 +1,4 @@
-// A trait in rust defines the functionality a particular type has and can share with other types. Traits are similar to interfaces in other languages. A trait can be implemented for a type, and the type can use the functionality defined in the trait. Trait is similar to an abstract class in java. You can have a default implementation of a function in a trait -> you can override if you want to.
+// Traits are similar to interfaces in other languages. A trait in rust defines the functionality a particular type has and can share with other types. A trait can be implemented for a type, and the type can use the functionality defined in the trait. Trait is similar to an abstract class in java. You can have a default implementation of a function in a trait -> you can override if you want to.
 
 pub trait Summary {
     fn summarize(&self) -> String;
