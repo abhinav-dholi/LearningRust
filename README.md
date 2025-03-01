@@ -117,7 +117,12 @@
 - **Docs:** [Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
 
 ### 22. **Multithreading** 
-**(_Pending_)**
+**(Done)**
+- **Code:** [multithreading](./multithreading)  
+- **Code:** [multithreading_2](./multithreading_2)  
+- **Code:** [multithreading_3](./multithreading_3)  
+- **Code:** [message_passing](./message_passing)  
+- **Code:** [message_passing_2](./message_passing_2)  
 - **Docs:** [Multithreading](https://doc.rust-lang.org/book/ch16-01-threads.html)
 
 ### 23. **Macros**
