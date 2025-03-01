@@ -126,7 +126,9 @@
 - **Docs:** [Multithreading](https://doc.rust-lang.org/book/ch16-01-threads.html)
 
 ### 23. **Macros**
-**(_Pending_)**
+**(_Done_for_now_)**
+- Super advanced topic for now requires language understanding on the compiler level. Might add in if I get super geeky about Rust in the future. ;)
+- On a basic level, "some code that write more code", ctrl click on !println and get some idea about how it looks.
 - **Docs:** [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
 
 ### 24. **Futures**
