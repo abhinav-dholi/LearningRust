@@ -1,0 +1,51 @@
+# Ignore compiled binaries and artifacts
+/target/
+**/*.rs.bk
+
+# Ignore dependencies
+Cargo.lock
+/Cargo.lock
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore backup and temporary files
+*.tmp
+*.bak
+*.log
+*.rs.bk
+
+# Ignore build and debug artifacts
+debug/
+release/
+*.dSYM/
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.a
+*.lib
+
+# Ignore package manager files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore Rust-specific tools and configs
+rustfmt.toml
+clippy.toml
+
+# Ignore documentation artifacts
+/doc/
+target/doc/
+
+# Ignore test and benchmarking outputs
+/tests/output/
+benches/output/
+
+# Ignore lock files from package managers
+Cargo.lock

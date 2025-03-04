@@ -132,11 +132,15 @@
 - **Docs:** [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
 
 ### 24. **Futures**
-**(_Pending_)**
+**(_Done_)**
+- **Code:** [async_programming](./async_programming)
 - **Docs:** [Futures](https://rust-lang.github.io/async-book/02_execution/01_chapter.html)
 
 ### 25. **Async/await and Tokio**
-**(_Pending_)**
+**(_Done_)**
+- **Code:** [async_programming_2](./async_programming_2)
+- **Code:** [using_tokio](./using_tokio)
+- **Code:** [using_tokio_2](./using_tokio_2)
 - **Docs:** [Async/Await](https://rust-lang.github.io/async-book/)  
 - **Docs:** [Tokio](https://tokio.rs/)
 
